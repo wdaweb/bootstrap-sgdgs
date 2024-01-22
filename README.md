@@ -2,7 +2,7 @@
 <hr>
 1.導覽列 (#title)
 <br>
-![image](https://github.com/wdaweb/bootstrap-sgdgs/assets/143071559/e3dc963b-da30-4568-b271-db52a99a2c91)
+![image](https://github.com/wdaweb/bootstrap-sgdgs/assets/143071559/e3dc963b-da30-4568-b271-db52a99a2c91.png)
 <hr>
 2.swiper (#section01)<br>
 ![image](https://github.com/wdaweb/bootstrap-sgdgs/assets/143071559/10ccc7d4-541e-4a75-a8ec-25e521d1ae01)
